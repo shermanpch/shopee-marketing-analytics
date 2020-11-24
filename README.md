@@ -18,9 +18,7 @@ Data related to marketing emails (Electronic Direct Mail) that were sent to Shop
 Submissions are evaluated on the Matthews correlation coefficient (MCC) between the predicted and the observed response. The MCC is given by:
 <br>
 <br>
-<p align="center"><img src="https://latex.codecogs.com/svg.latex?MCC&space;=&space;\frac{(TP*TN)-(FP*FN)}{\sqrt{(TP&plus;FP)(TP&plus;FN)(TN&plus;FP)(TN&plus;FN)}}" title="MCC = \frac{(TP*TN)-(FP*FN)}{\sqrt{(TP+FP)(TP+FN)(TN+FP)(TN+FN)}}" width="600"></p>
- where TP is the number of true positives, TN the number of true negatives, FP the number of false positives, and FN the number of <bar>
-   false negatives.
+<p align="center"><img src="https://latex.codecogs.com/svg.latex?MCC&space;=&space;\frac{(TP*TN)-(FP*FN)}{\sqrt{(TP&plus;FP)(TP&plus;FN)(TN&plus;FP)(TN&plus;FN)}}" title="MCC = \frac{(TP*TN)-(FP*FN)}{\sqrt{(TP+FP)(TP+FN)(TN+FP)(TN+FN)}}" width="600"></p>where TP is the number of true positives, TN the number of true negatives, FP the number of false positives, and FN the number of false negatives.
 
 ## Results
 |Public Leaderboard|Private Leaderboard|
