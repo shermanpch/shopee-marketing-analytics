@@ -28,7 +28,7 @@ Submissions are evaluated on the Matthews correlation coefficient (MCC) between 
 ## Reference
 **Jupyter Notebook**
 <br>
-https://github.com/shermanpch/shopee-sentiment-analysis/blob/master/shopee-marketing-analytics.ipynb
+https://github.com/shermanpch/shopee-marketing-analytics/blob/main/shopee-marketing-analytics.ipynb
 
 **Shopee Code League - Marketing Analytics**
 <br>
